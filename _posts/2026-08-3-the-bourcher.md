@@ -1,4 +1,3 @@
-
 ---
 title: The Brochure | TryHackMe Challenge
 date: 2026-08-06 3:20:00 +0000
