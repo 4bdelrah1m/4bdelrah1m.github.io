@@ -148,7 +148,7 @@ The decoded message revealed the challenge flag.
 ---
 
 ## Captured The Flag 
-![flag](/assets/img/posts/the-brochure/flag.png)
+![flag](https://media.tenor.com/pw2RilQ91T8AAAAM/far-and-away-capture-the-flag.gif)
 
 > Flag = **THM{V3r@s_aCC0unt_h4s_b33n_f0und!}**
 
