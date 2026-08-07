@@ -147,14 +147,14 @@ The decoded message revealed the challenge flag.
 
 ---
 
-## Flag
+## Captured The Flag 
 ![flag](/assets/img/posts/the-brochure/flag.png)
 
-> **THM{V3r@s_aCC0unt_h4s_b33n_f0und!}**
+> Flag = **THM{V3r@s_aCC0unt_h4s_b33n_f0und!}**
 
 ---
+> ## Completed
 
-## Completed
 ![Base64 Decoding](/assets/img/posts/the-brochure/finish.png)
 
-
+---
