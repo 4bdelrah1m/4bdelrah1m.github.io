@@ -100,7 +100,7 @@ I also checked the account bio and About section, but there was still nothing us
 Then something caught my eye.
 
 The hotel account was following **only one account**.
-![Vera](/assets/img/posts/the-brochure/follow1?.png)
+![Vera](/assets/img/posts/the-brochure/follow1.png)
 
 That seemed very intentional.
 
