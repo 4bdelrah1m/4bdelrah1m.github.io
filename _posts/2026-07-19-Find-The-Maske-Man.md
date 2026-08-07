@@ -58,7 +58,7 @@ and found that the AI Suggests Two Restaurants So I Clicked on the first one
 And it wasn’t the restaurant in the masked man picture and not the same street so, I clicked on the second one
 
 ![Chez Julien](/assets/img/posts/find-the-masked-man/third-search.webp)
-![Chez Julien](/assets/img/posts/find-the-masked-man/third2-search.webp)
+![Chez Julien](/assets/img/posts/find-the-masked-man/third-search2.webp)
 
 At the first look you might think that this was the restaurant but no, wasn’t the same
 
