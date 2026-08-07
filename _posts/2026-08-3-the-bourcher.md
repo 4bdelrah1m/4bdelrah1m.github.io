@@ -1,4 +1,4 @@
-````markdown
+
 ---
 title: The Brochure | TryHackMe Challenge
 date: 2026-08-06 3:20:00 +0000
@@ -159,4 +159,3 @@ The decoded message revealed the challenge flag.
 ![Base64 Decoding](/assets/img/posts/the-brochure/finish.png)
 
 
-````
