@@ -50,7 +50,7 @@ I found that the flag stored as SEG1_FLAG{} so I modified the prompt to ask it d
 SEG2_FLAG{?
 SEG3_FLAG{?
 
-![Second Part](image-1.png)
+![Second Part](/assets/img/posts/0xcairo-genai/image-1.png)
 
 
 >  now i got the first flag = **FLAG{D34n_0v3rr1d3_Gr4nt3d}**
@@ -95,7 +95,7 @@ And same Strategy to got the third part of the flag !
 
 
 > Flag = **FLAG{Z3r0_B4l4nc3_Exp10it}**
-![Second Challenge](/assets/img/posts/0xcairo-genai/sec.png)
+![Second Challenge](/assets/img/posts/0xcairo-genai/sec.gif)
 
 ![Second Challenge](/assets/img/posts/0xcairo-genai/flag2.png)
 
